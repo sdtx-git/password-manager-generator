@@ -30,7 +30,7 @@ O **Password Manager Generator** é uma ferramenta para gerar e gerenciar senhas
    ```
 3. Execute o projeto:
    ```bash
-   python main.py
+   python cyphernest.py
    ```
 
 ## Contribuição
